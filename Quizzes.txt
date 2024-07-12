@@ -1,0 +1,31 @@
+1-Geography Quiz
+2-History Quiz
+3-General Culture Quiz
+4-Science Quiz
+
+
+1-Geography Quiz
+
+Which of the followings is a intercontinental city?
+A-Istanbul B-New York C-Moscow D-Wellington
+
+What percentage of Earth's population lives in the Northern Hemisphere?
+A-40% B-50% C-75% D-90%
+
+Which Mountain's top is the closest point to the space on Earth?
+A-Mt. Everest B-Mt. Chimborazo C-Mt. Siguang Ri D-Mt. Aconcagua
+
+Which Sea does not have any Coasts?
+A-The Sargasso Sea B-The Mediterranean Sea C-The Baltic Sea D-The Red Sea
+
+Which country is the biggest country by landmark?
+A-USA B-China C-Russia D-India
+
+Which country is in Europe?
+A-Lesotho B-Bolivia C-St. Pierre and Miquelon D-Andorra
+
+How many countries are there in the United Kingdom?
+A-2 B-3 C-4 E-5
+
+Which strait is located between Maleysia and Endonesia?
+A-Bering Strait B-Malacca Strait C-Magellan Strait D-Strait of Gibraltar
