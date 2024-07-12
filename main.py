@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 from bson.objectid import ObjectId
 
 
-connection_string = "mongodb+srv://emre:1234@test1.6bsz8bk.mongodb.net/"
+connection_string = 
 client = MongoClient(connection_string)
 
 db = client.quiz_application
