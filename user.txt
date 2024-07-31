@@ -1,6 +1,0 @@
-user infos
-
-1- f.name l.name
-2-username
-3-password
-4-quiz scores
